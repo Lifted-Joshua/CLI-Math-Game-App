@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "A+nESiOCSfk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lifted.Joshua\\OneDrive - AddSecure\\Desktop\\C# Academy Projects\\MathGame\\MathGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lifted.Joshua\\.nuget\\packages\\spectre.console\\0.55.2\\spectre.console.0.55.2.nupkg.sha512",
+    "C:\\Users\\Lifted.Joshua\\.nuget\\packages\\spectre.console.ansi\\0.55.2\\spectre.console.ansi.0.55.2.nupkg.sha512"
+  ],
+  "logs": []
+}
